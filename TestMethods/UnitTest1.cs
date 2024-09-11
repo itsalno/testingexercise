@@ -39,14 +39,12 @@ public class UnitTest1
     [Fact]
     public void TestCountOccurencies()
     {
-        
+        var str = "hello world";
+        var charToCount = 'l';
+        var result = _exercises.CountOccurencies(str, charToCount);
+        Assert.Equal(3, result);
     }
-
-    [Fact]
-    public void TestRemoveDuplicates()
-    {
-        
-    }
+    
     
     
     
