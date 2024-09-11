@@ -1,0 +1,11 @@
+/Users/alekss/Desktop/testingexercise/Methods/bin/Debug/net8.0/Methods.deps.json
+/Users/alekss/Desktop/testingexercise/Methods/bin/Debug/net8.0/Methods.dll
+/Users/alekss/Desktop/testingexercise/Methods/bin/Debug/net8.0/Methods.pdb
+/Users/alekss/Desktop/testingexercise/Methods/obj/Debug/net8.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alekss/Desktop/testingexercise/Methods/obj/Debug/net8.0/Methods.AssemblyInfoInputs.cache
+/Users/alekss/Desktop/testingexercise/Methods/obj/Debug/net8.0/Methods.AssemblyInfo.cs
+/Users/alekss/Desktop/testingexercise/Methods/obj/Debug/net8.0/Methods.csproj.CoreCompileInputs.cache
+/Users/alekss/Desktop/testingexercise/Methods/obj/Debug/net8.0/Methods.dll
+/Users/alekss/Desktop/testingexercise/Methods/obj/Debug/net8.0/refint/Methods.dll
+/Users/alekss/Desktop/testingexercise/Methods/obj/Debug/net8.0/Methods.pdb
+/Users/alekss/Desktop/testingexercise/Methods/obj/Debug/net8.0/ref/Methods.dll
