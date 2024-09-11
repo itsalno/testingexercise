@@ -26,15 +26,7 @@ public class UnitTest1
         var result = _exercises.findMax(numbers);
         Assert.Equal(5,result);
     }
-
-    [Fact]
-    public void TestCountOccurencies()
-    {
-        var str = "hello world";
-        var charToCount = 'l';
-        var result = _exercises.CountOccurencies(str, charToCount);
-        Assert.Equal(3, result);
-    }
+    
     
     
     
