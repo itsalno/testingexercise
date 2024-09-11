@@ -16,16 +16,7 @@ public class UnitTest1
         Assert.Equal("olleH",result);
         
     }
-
     
-    [Fact]
-    public void TestisEven()
-    {
-        var number = 3;
-        var result = _exercises.isEven(number);
-        
-        
-    }
     
     
     [Fact]
